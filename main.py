@@ -1,3 +1,2 @@
-#this is a feature 1 :
-print("feature 1")
+print("hello world")
 
